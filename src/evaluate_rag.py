@@ -16,7 +16,7 @@ from datasets import Dataset
 from ragas import evaluate
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from ragas.llms import LangchainLLMWrapper
-from ragas.metrics import AnswerRelevancy, ContextPrecision, ContextRecall, Faithfulness
+from ragas.metrics.collections import AnswerRelevancy, ContextPrecision, ContextRecall, Faithfulness
 from langchain_anthropic import ChatAnthropic
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 
