@@ -1,0 +1,533 @@
+================================================================================
+         APOLLO HOSPITALS - CHENNAI
+         INFECTION CONTROL POLICY & PROTOCOLS
+         OPERATION THEATRE (OT) AND INTENSIVE CARE UNIT (ICU)
+         Document No.: AH-CHN-IPC-004
+         Version: 2.5
+         Effective Date: 01 March 2025
+         Review Date: 28 February 2026
+         Approved By: Dr. Meenakshi Rajan, Chairperson - Infection Control Committee
+         Department: Infection Control & Epidemiology
+================================================================================
+
+DISCLAIMER: This document is intended for authorized clinical and support staff
+of Apollo Hospitals Chennai. Adherence to this policy is mandatory and forms
+part of staff performance evaluation. Queries should be directed to the Hospital
+Infection Control Officer (HICO).
+
+--------------------------------------------------------------------------------
+1. PURPOSE
+--------------------------------------------------------------------------------
+
+This policy defines infection prevention and control (IPC) standards for two
+high-risk areas within Apollo Hospitals Chennai:
+
+  (a) Operation Theatre (OT) Complex — Blocks A and B, Second Floor
+  (b) Intensive Care Units — MICU, SICU, CICU, NICU, and PICU, Third Floor
+
+It aligns with national guidelines issued by the National Centre for Disease
+Control (NCDC), the Ministry of Health & Family Welfare (MoHFW), and
+international standards set by the World Health Organization (WHO) and the
+Centers for Disease Control and Prevention (CDC). It also supports compliance
+with NABH (National Accreditation Board for Hospitals) Standard IC.1 through IC.7
+and JCI (Joint Commission International) IPSG.5.
+
+--------------------------------------------------------------------------------
+2. SCOPE
+--------------------------------------------------------------------------------
+
+This policy applies to:
+  - Surgeons, anaesthesiologists, and OT technicians
+  - ICU intensivists, fellows, and residents
+  - All nursing staff in OT and ICU settings
+  - Housekeeping, biomedical engineering, and biomedical waste staff
+  - Medical students, interns, and observers (with supervisor responsibility)
+  - Vendors and equipment maintenance personnel entering controlled areas
+
+--------------------------------------------------------------------------------
+3. DEFINITIONS
+--------------------------------------------------------------------------------
+
+  HAI (Healthcare-Associated Infection):
+      Infection acquired during the course of receiving healthcare treatment,
+      not present or incubating at the time of admission.
+
+  SSI (Surgical Site Infection):
+      Infection occurring within 30 days of an operation (or 90 days if an
+      implant is placed) and involving the skin, subcutaneous tissue, deep
+      soft tissue, or organ/space at the surgical site.
+
+  CLABSI (Central Line-Associated Bloodstream Infection):
+      Primary bloodstream infection in a patient with a central venous catheter
+      (CVC) in place for >48 hours with no other identified source.
+
+  CAUTI (Catheter-Associated Urinary Tract Infection):
+      Urinary tract infection in a patient who had an indwelling urinary catheter
+      in place for >2 calendar days at the time of infection.
+
+  VAP (Ventilator-Associated Pneumonia):
+      Pneumonia occurring in a patient who has been on mechanical ventilation
+      for more than 48-72 hours.
+
+  HICO: Hospital Infection Control Officer
+      Dr. S. Vijayalakshmi, MD (Microbiology), ext. 4210
+      Email: hico.chennai@apollohospitals.com
+
+  ICC: Infection Control Committee
+      Meets on the second Monday of every month, 10:00 AM, Conference Room 2B.
+
+  Restricted Zone: Area requiring scrubs, cap, mask, and shoe covers (OT corridor).
+  Sterile Zone: Area requiring full sterile attire (OT interior, scrub sink area).
+  Semi-Restricted Zone: Area requiring scrubs and cap (OT reception, ICU anteroom).
+
+--------------------------------------------------------------------------------
+4. HAND HYGIENE
+--------------------------------------------------------------------------------
+
+4.1 POLICY STATEMENT
+
+Hand hygiene is the single most important measure to prevent HAIs. Compliance
+with hand hygiene is mandatory for ALL staff entering OT or ICU areas.
+Zero-tolerance for non-compliance applies in these zones.
+
+4.2 THE FIVE MOMENTS OF HAND HYGIENE (WHO Framework)
+
+  Moment 1 — Before touching a patient
+  Moment 2 — Before a clean or aseptic procedure
+  Moment 3 — After body fluid exposure risk
+  Moment 4 — After touching a patient
+  Moment 5 — After touching patient surroundings
+
+4.3 TECHNIQUE
+
+  Alcohol-Based Hand Rub (ABHR) — 70% isopropyl alcohol formulation:
+    - Apply 3 mL (approximately 2 pumps) to dry hands
+    - Rub for 20-30 seconds using the WHO 6-step technique
+    - Allow to air dry — do NOT wipe
+    - Preferred method for routine hand hygiene in OT and ICU
+
+  Soap and Water (Surgical Scrub):
+    - Mandatory before first surgical case of the day
+    - Required after visible soiling or contact with Clostridioides difficile cases
+    - Nail pick used before the first scrub of the day
+    - Scrub duration: 3-5 minutes (timed scrub using scrub sink timer)
+    - Arms scrubbed to 2 inches above the elbow
+    - Hands held higher than elbows after scrub; never touch non-sterile surfaces
+
+4.4 HAND HYGIENE AUDITS
+
+  - Weekly audits conducted by the Infection Control Nurse (ICN) using the
+    WHO Hand Hygiene Observation Tool.
+  - Target compliance: >= 90% for OT and ICU staff.
+  - Results reported to Unit Head monthly and to ICC quarterly.
+  - Repeat non-compliance (< 70% individual score for 2 consecutive months)
+    escalated to Department Head and HR for documented counselling.
+
+4.5 HAND HYGIENE INFRASTRUCTURE
+
+  - ABHR dispensers placed at every OT bay entry, scrub sink station, and
+    at every ICU bed space (head and foot).
+  - ABHR refill monitored by nursing in-charge; shortage reported to Materials
+    Management (ext. 3400) within 2 hours.
+  - Soap dispensers and single-use paper towels maintained at all ICU sinks.
+  - Artificial nails, nail polish, and hand jewelry (rings, bracelets) are
+    prohibited in OT and ICU areas.
+
+--------------------------------------------------------------------------------
+5. OPERATION THEATRE (OT) INFECTION CONTROL PROTOCOLS
+--------------------------------------------------------------------------------
+
+5.1 OT ZONE CLASSIFICATION AND ACCESS CONTROL
+
+  Zone              | Access Requirement                  | Who May Enter
+  ------------------|-------------------------------------|-------------------------------
+  Outer Zone        | Street clothes acceptable           | All hospital staff, patients
+  Semi-Restricted   | OT scrubs, cap, surgical mask       | OT-scheduled staff only
+  Restricted        | Scrubs, cap, mask, shoe covers      | Credentialed OT staff
+  Sterile Zone      | Full sterile attire + sterile gloves| Scrubbed surgical team only
+
+  - OT entry/exit is controlled via biometric access (OT Reception, ext. 2201).
+  - Visitors and observers require written approval from the OT In-charge and
+    Chief of Surgery. Maximum 1 observer per case; observers remain in the
+    restricted zone only.
+
+5.2 PERSONAL PROTECTIVE EQUIPMENT (PPE) IN OT
+
+  All OT personnel must wear:
+    [ ] OT-specific scrubs (not worn outside the OT complex)
+    [ ] Surgical cap — covering all hair completely
+    [ ] Surgical mask (ASTM Level 3 or equivalent) — replaced between cases
+        or when visibly soiled/wet
+    [ ] Shoe covers — replaced on leaving and re-entering the OT complex
+    [ ] Sterile gloves (scrubbed team members)
+    [ ] Eye protection / face shield — mandatory for procedures with splash risk
+
+  Double-gloving is recommended for:
+    - Procedures > 2 hours duration
+    - Orthopedic implant surgery
+    - Cases with known or suspected bloodborne pathogen risk (HIV, HBV, HCV)
+
+  PPE Removal Order (Doffing):
+    Gloves → Eye protection → Gown → Mask/Cap → Hand hygiene
+
+5.3 OT ENVIRONMENTAL CONTROLS
+
+  Temperature and Humidity:
+    - OT temperature: 18°C – 24°C (±2°C tolerance)
+    - Relative humidity: 40% – 60%
+    - Monitored continuously via HVAC system; daily log maintained by
+      Biomedical Engineering (ext. 3600)
+    - Deviations > tolerance threshold must be reported and corrective action
+      taken before the next elective case
+
+  Air Quality and Ventilation:
+    - OT suites are maintained at positive pressure relative to adjacent corridors
+    - Minimum 20 air changes per hour (ACH); laminar flow in designated OTs
+      (OT 4, 5, 6 — Orthopedic and Cardiac suites)
+    - HEPA filters (99.97% efficiency at 0.3 microns) inspected quarterly;
+      replaced annually or as per manufacturer recommendation
+    - Air ducts cleaned semi-annually; documented in Biomedical Engineering log
+
+  Surfaces and Equipment:
+    - All horizontal surfaces cleaned and disinfected between each surgical case
+    - Terminal cleaning performed at end of each OT day list
+    - Approved disinfectants: 1% sodium hypochlorite for general surfaces;
+      2% glutaraldehyde for heat-sensitive instruments (only where autoclave
+      is contraindicated)
+    - Floors: mopped with 0.5% chlorine solution after each case; terminal
+      mopping with 1% chlorine at end of day
+
+5.4 SURGICAL SITE INFECTION (SSI) PREVENTION BUNDLE
+
+  The following bundle elements are mandatory for all surgical cases and
+  must be documented in the OT Checklist (HealthConnect — OT Module):
+
+  Pre-operative:
+    [ ] Surgical site hair removal by clipper (NOT razor) — within 2 hours of surgery
+    [ ] Skin preparation with 2% Chlorhexidine Gluconate (CHG) + 70% alcohol
+        (Chloraprep or equivalent); allowed to dry completely before draping
+    [ ] Surgical antibiotic prophylaxis (SAP) administered within 60 minutes
+        of incision (within 120 minutes for vancomycin/fluoroquinolones)
+    [ ] SAP agent and dose confirmed per Apollo Antimicrobial Stewardship
+        Guidelines (AH-CHN-AMS-001); default: Injection Cefazolin 2g IV
+    [ ] Patient normothermia maintained (core temp >= 36°C); warming blanket
+        used as indicated
+    [ ] Glycaemic control: Blood glucose < 180 mg/dL pre-operatively for all
+        patients; mandatory check for diabetics and cardiac surgery patients
+
+  Intra-operative:
+    [ ] Sterile draping verified before incision
+    [ ] Glove change after every 90 minutes or after any known contamination
+    [ ] Instrument counts completed and documented (opening, closing, and
+        final counts by scrub nurse)
+    [ ] Minimise OT traffic during the case — doors kept closed
+
+  Post-operative:
+    [ ] Wound covered with sterile dressing in OT; not disturbed for 48 hours
+        unless clinical indication
+    [ ] SAP discontinued within 24 hours of surgery (48 hours for cardiac surgery)
+    [ ] SSI surveillance initiated — 30-day follow-up via OPD or phone for
+        all elective cases; 90-day follow-up for implant surgeries
+
+5.5 STERILIZATION AND INSTRUMENT MANAGEMENT
+
+  Sterilization Methods (in order of preference):
+    1. Steam Autoclave (High-pressure saturated steam, 134°C, 3 min / 121°C, 15 min)
+       — Standard for all heat/moisture-tolerant instruments
+    2. Ethylene Oxide (ETO) sterilization — for heat/moisture-sensitive devices
+       — Central Sterile Supply Department (CSSD), Basement Level
+    3. Hydrogen Peroxide Plasma (STERRAD) — for endoscopes and minimally
+       invasive surgical instruments
+    4. 2% Glutaraldehyde (Cidex) — High-level disinfection only; NOT sterilization
+       — Restricted to scopes not amenable to STERRAD
+
+  Packaging and Labelling:
+    - All sterile packs labelled with: instrument name, sterilization date,
+      expiry date, autoclave cycle number, and technician ID
+    - Packs with compromised integrity (tears, wetness) must be rejected and
+      re-sterilized regardless of labelling date
+
+  Biological Indicators:
+    - Geobacillus stearothermophilus spore strips tested weekly for autoclaves
+    - STERRAD biological indicator run with every load
+    - Positive biological indicator: halt sterilizer use; notify CSSD Supervisor
+      and Biomedical Engineering; quarantine all loads since last negative BI
+
+5.6 OT SCHEDULING AND INFECTIOUS CASES
+
+  - Cases involving active infections (e.g., wet gangrene, perforated viscus,
+    Necrotising Fasciitis) must be scheduled as the LAST case of the day
+    in a designated OT bay.
+  - Known MRSA, VRE, or CRE-positive patients: notify OT In-charge at least
+    12 hours in advance; contact precautions implemented in the OT.
+  - Dedicated instruments set aside for infectious cases; bagged separately
+    for CSSD with biohazard label.
+  - Enhanced terminal cleaning with 1% hypochlorite after infectious cases,
+    followed by fumigation with formaldehyde (as per CSSD protocol AH-CHN-CSSD-002)
+    if warranted.
+
+--------------------------------------------------------------------------------
+6. ICU INFECTION CONTROL PROTOCOLS
+--------------------------------------------------------------------------------
+
+6.1 ICU ZONE AND ACCESS CONTROL
+
+  - ICU operates on a closed-unit model.
+  - Access restricted to: ICU medical team, designated nursing staff, assigned
+    paramedical staff, and approved family visitors.
+  - Visitor policy: maximum 2 visitors per patient, during visiting hours
+    (10:00 AM – 11:00 AM and 5:00 PM – 6:00 PM); wearing of surgical mask
+    and hand hygiene at entry is mandatory for all visitors.
+  - All staff must change into ICU-specific scrubs at the anteroom; street
+    clothes are not permitted inside the ICU.
+
+6.2 STANDARD AND TRANSMISSION-BASED PRECAUTIONS
+
+  Standard Precautions (ALL patients, ALL times):
+    - Hand hygiene at all 5 WHO moments
+    - Gloves for contact with blood, body fluids, mucous membranes, non-intact skin
+    - Gown/apron for procedures with splash/spray risk
+    - Surgical mask + eye protection for splash/aerosol-generating procedures
+    - Safe sharps handling — no recapping of needles; sharps bins at bedside
+
+  Contact Precautions (MRSA, VRE, CRE, C. difficile, scabies):
+    - Single room or cohorting with same organism
+    - Dedicated patient equipment (stethoscope, BP cuff, thermometer)
+    - Gloves + gown for ALL room entry
+    - Soap and water hand hygiene (not ABHR) for C. difficile
+    - Contact precaution signage displayed at room entry
+
+  Droplet Precautions (Influenza, COVID-19, RSV, pertussis):
+    - Surgical mask for staff within 1 metre of patient
+    - Patient placed in single room; door may remain open
+    - Patient masked during transport
+
+  Airborne Precautions (Active/Suspected TB, measles, varicella, COVID-19 AGP):
+    - N95 respirator (fit-tested) for all staff entering room
+    - Negative pressure room (ICU Room 12 and 13 designated; 12 ACH minimum)
+    - Door must remain closed at all times
+    - Patient transport minimised; N95 on patient during transport
+
+6.3 CENTRAL LINE-ASSOCIATED BLOODSTREAM INFECTION (CLABSI) PREVENTION BUNDLE
+
+  Insertion Bundle:
+    [ ] Hand hygiene before insertion
+    [ ] Maximum sterile barrier precautions (sterile gown, gloves, cap, mask,
+        large sterile drape) for all CVC insertions — no exceptions
+    [ ] Skin antisepsis with CHG-alcohol (2% CHG + 70% isopropyl) — dry time
+        minimum 30 seconds
+    [ ] Preferred insertion site: subclavian vein (lowest infection risk)
+        Femoral vein insertion avoided unless no alternative
+    [ ] Use of ultrasound guidance documented in procedure note
+    [ ] CVC insertion checklist signed by inserting physician and bedside nurse
+
+  Maintenance Bundle (Daily):
+    [ ] Need for CVC assessed and documented daily — remove if no longer needed
+    [ ] Dressing intact and dry — change every 7 days (chlorhexidine-impregnated
+        dressing) or immediately if soiled/loose
+    [ ] Needleless connectors (hubs) disinfected with CHG-alcohol for
+        minimum 15 seconds before each access ("scrub the hub")
+    [ ] Blood draws through CVC minimised; peripheral stick preferred
+    [ ] Line not used for TPN unless dedicated port; TPN line changed every 24 hours
+
+6.4 VENTILATOR-ASSOCIATED PNEUMONIA (VAP) PREVENTION BUNDLE
+
+  [ ] Head of bed elevation: 30°–45° at all times (except contraindicated)
+      — Angle measured and documented every nursing shift
+  [ ] Oral care with 0.12% Chlorhexidine gluconate solution every 6 hours
+  [ ] Sedation vacation daily — assess readiness for extubation every morning
+  [ ] Daily spontaneous breathing trial (SBT) — documented by intensivist
+  [ ] Subglottic secretion drainage (for patients ventilated > 72 hours;
+      SSD-equipped ETTs used by default for planned ventilation)
+  [ ] Heat and moisture exchangers (HME) changed every 5-7 days or when visibly soiled
+  [ ] Ventilator circuits: not routinely changed — changed only when visibly
+      soiled or malfunctioning (per CDC/HICPAC recommendation)
+  [ ] Stress ulcer prophylaxis and DVT prophylaxis per ICU protocol
+
+6.5 CATHETER-ASSOCIATED URINARY TRACT INFECTION (CAUTI) PREVENTION BUNDLE
+
+  [ ] Urinary catheter inserted only when clinically indicated (criteria in
+      HealthConnect — ICU Nursing Protocol ICU-NP-007)
+  [ ] Smallest appropriate catheter size used (typically 14-16 Fr)
+  [ ] Aseptic insertion technique; CHG-based cleaning of urethral meatus
+  [ ] Closed drainage system maintained at all times — no disconnection of
+      tubing without clinical necessity
+  [ ] Drainage bag maintained below bladder level; never on the floor
+  [ ] Catheter removed as soon as clinically appropriate — daily review mandatory
+  [ ] Catheter days logged in HealthConnect for CAUTI rate calculation
+
+6.6 ANTIMICROBIAL STEWARDSHIP IN ICU
+
+  - All antimicrobial prescriptions in ICU require documentation of:
+      * Indication
+      * Anticipated duration
+      * Culture/sensitivity status
+  - De-escalation of antibiotics mandatory within 72 hours of culture results
+    (unless clinical deterioration prevents it — must be documented)
+  - Weekly antimicrobial review by ICU team + Infectious Disease consultant
+    (Dr. Arjun Krishnaswamy, ext. 4218) — every Wednesday, 8:00 AM ward round
+  - Broad-spectrum antibiotics (Meropenem, Colistin, Polymyxin B, Tigecycline)
+    require co-signature from the Infectious Disease team or CMO before initiation
+  - Culture-before-antibiotics policy: blood cultures (minimum 2 sets), urine,
+    tracheal aspirate drawn BEFORE first antibiotic dose wherever possible
+
+6.7 ICU ENVIRONMENTAL CLEANING PROTOCOL
+
+  Frequency:
+    - Bedside environment: cleaned and disinfected every 8 hours (each nursing shift)
+    - Equipment surfaces (monitors, pumps, rails): wiped with 70% isopropyl
+      alcohol wipes at shift change
+    - Floor mopping: every 8 hours with 0.5% chlorine solution
+    - Terminal cleaning (on patient discharge/transfer): 1% sodium hypochlorite
+      on all surfaces; HEPA-filtered vacuuming of soft furnishings
+    - UV-C disinfection: deployed for terminal cleaning of rooms vacated by
+      patients with MDR organisms (MRSA, CRE, VRE)
+
+  Equipment Decontamination:
+    - Dedicated equipment per bed space where possible
+    - Shared equipment (portable USG, echo machine, portable X-ray) disinfected
+      with 70% alcohol wipes between each patient use
+    - Biomedical engineering responsible for internal cleaning of shared equipment
+      monthly — documented in equipment log
+
+--------------------------------------------------------------------------------
+7. SURVEILLANCE AND REPORTING
+--------------------------------------------------------------------------------
+
+7.1 HAI SURVEILLANCE
+
+  The Infection Control team conducts prospective surveillance for:
+    - SSI rates (per 100 surgical procedures, by category)
+    - CLABSI rates (per 1000 central line days)
+    - CAUTI rates (per 1000 catheter days)
+    - VAP rates (per 1000 ventilator days)
+
+  Benchmark targets (aligned with NHSN percentiles):
+    Indicator     | Apollo Target      | Action Threshold
+    --------------|--------------------|-----------------------
+    SSI Rate      | < 2 per 100 cases  | >= 3 per 100 cases
+    CLABSI Rate   | < 1 per 1000 CL days | >= 2 per 1000 CL days
+    CAUTI Rate    | < 2 per 1000 cath days | >= 3 per 1000 cath days
+    VAP Rate      | < 5 per 1000 vent days | >= 8 per 1000 vent days
+
+7.2 OUTBREAK INVESTIGATION
+
+  A cluster of >= 2 related HAIs within 2 weeks is treated as a potential
+  outbreak:
+    - HICO notified immediately
+    - Environmental swabs and cultures collected
+    - Case-control investigation initiated
+    - Cohorting of affected patients implemented
+    - Enhanced cleaning protocol activated
+    - ICC convened for emergency review within 48 hours
+    - TNOCD (Tamil Nadu Occupational and Communicable Disease) notified if
+      required under state regulations
+
+7.3 MANDATORY REPORTING
+
+  The following must be reported to the Hospital Infection Control Officer
+  within 24 hours of identification:
+    - Any confirmed CLABSI, VAP, or CAUTI in ICU
+    - Any SSI requiring surgical re-intervention
+    - Outbreak of any HAI (>=2 linked cases)
+    - Any positive culture for CRE (Carbapenem-Resistant Enterobacteriaceae),
+      CRKP, or CRAB (Carbapenem-Resistant Acinetobacter baumannii)
+    - Needle-stick or sharps injuries (also report via HR — ext. 3900 — within
+      4 hours for post-exposure prophylaxis if indicated)
+
+--------------------------------------------------------------------------------
+8. STAFF HEALTH AND VACCINATION
+--------------------------------------------------------------------------------
+
+  All OT and ICU staff must maintain the following vaccinations (verified at
+  onboarding and reviewed annually by Occupational Health, ext. 4300):
+
+    Vaccine                  | Requirement
+    -------------------------|---------------------------------------------------
+    Hepatitis B              | Complete 3-dose series; anti-HBs titer >= 10 IU/L
+    Influenza                | Annual dose (October – November each year)
+    COVID-19                 | Primary series + boosters per current MOHFW advisory
+    Varicella                | Documented immunity or 2-dose series
+    MMR                      | Documented immunity or 2-dose series
+    Tdap                     | One dose (if not received in previous 10 years)
+
+  Fitness to Work:
+    - Staff with active skin infections, open wounds, or acute respiratory
+      illness must report to Occupational Health before commencing duty in OT/ICU.
+    - Staff with confirmed MRSA nasal carriage will be decolonized per
+      occupational health protocol before returning to sterile areas.
+
+--------------------------------------------------------------------------------
+9. TRAINING AND COMPETENCY
+--------------------------------------------------------------------------------
+
+  - All new OT and ICU staff must complete the Apollo IPC Induction Training
+    within 30 days of joining (in-person, conducted by HICO team; 4 hours).
+  - Annual refresher training mandatory for all staff; completion tracked in
+    the Apollo Learning Management System (LMS).
+  - Competency assessments:
+      * Hand hygiene technique — observed annually
+      * PPE donning and doffing — observed at induction and annually
+      * Aseptic non-touch technique (ANTT) — annual skills lab assessment
+  - Non-completion of mandatory training reported to Unit Head.
+
+--------------------------------------------------------------------------------
+10. WASTE MANAGEMENT
+--------------------------------------------------------------------------------
+
+  Biomedical waste in OT and ICU must be segregated at source per
+  Bio-Medical Waste Management Rules, 2016 (amended 2019):
+
+    Colour Code | Container Type      | Waste Category
+    ------------|---------------------|------------------------------------------
+    Yellow      | Bag (non-chlorinated)| Human anatomical waste, soiled dressings,
+                |                     | blood bags, body fluids
+    Red         | Bag (non-chlorinated)| Contaminated recyclables — IV sets,
+                |                     | catheters, gloves
+    White       | Puncture-proof box  | Sharps (needles, blades, broken glass)
+    Blue        | Box                 | Glassware, metallic implants/bodies
+
+  - Sharps bins must never exceed 3/4 capacity before sealing and disposal.
+  - Biomedical waste collected from OT and ICU twice daily (10:00 AM and 8:00 PM)
+    by designated housekeeping staff in PPE.
+  - Liquid waste (blood, fluids) disposed via designated drain points connected
+    to effluent treatment system — never via general sink.
+
+--------------------------------------------------------------------------------
+APPENDIX A: QUICK REFERENCE — PPE SELECTION GUIDE (OT & ICU)
+--------------------------------------------------------------------------------
+
+  Scenario                          | Gloves | Mask      | Gown | Eye Prot.
+  ----------------------------------|--------|-----------|------|----------
+  Routine patient care (ICU)        | Yes    | Surgical  | No   | No
+  CVC insertion / removal           | Yes    | Surgical  | Yes  | Yes
+  Intubation / suctioning           | Yes    | N95       | Yes  | Yes
+  Bronchoscopy                      | Yes    | N95       | Yes  | Face shield
+  Surgery (scrubbed)                | Yes    | Surgical  | Yes  | Eye prot.
+  Contact precaution patient        | Yes    | Surgical  | Yes  | As needed
+  Airborne precaution patient       | Yes    | N95       | Yes  | Face shield
+  C. difficile care                 | Yes    | Surgical  | Yes  | No
+
+--------------------------------------------------------------------------------
+DOCUMENT CONTROL
+--------------------------------------------------------------------------------
+
+  Version   Date              Author                        Changes
+  -------   ---------------   ---------------------------   ----------------------
+  1.0       01 Apr 2020       ICC Team                      Initial policy
+  2.0       01 Jan 2022       Dr. M. Rajan / HICO           COVID-19 updates;
+                                                            VAP bundle revised
+  2.3       01 Jun 2023       HICO / Nursing Education      CAUTI & CLABSI bundles
+                                                            aligned to NHSN 2023
+  2.5       01 Mar 2025       Dr. M. Rajan, ICC             Annual review; MDR
+                                                            organism section; UV-C
+                                                            disinfection added
+
+--------------------------------------------------------------------------------
+For queries regarding this policy, contact:
+Hospital Infection Control Officer (HICO)
+Apollo Hospitals Chennai, 21 Greams Lane, Off Greams Road, Chennai – 600 006
+Phone: 044-2829-3333 (Extn. 4210) | Email: hico.chennai@apollohospitals.com
+--------------------------------------------------------------------------------
+                      END OF DOCUMENT - AH-CHN-IPC-004 v2.5
+================================================================================

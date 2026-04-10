@@ -1,0 +1,626 @@
+================================================================================
+         APOLLO HOSPITALS - CHENNAI
+         INSURANCE, BILLING & CLAIMS PROCEDURES
+         PATIENT INFORMATION & STAFF REFERENCE GUIDE
+         Document No.: AH-CHN-BIL-007
+         Version: 4.1
+         Effective Date: 01 April 2025
+         Review Date: 31 March 2026
+         Approved By: Mr. V. Krishnamurthy, Chief Financial Officer
+         Department: Medical Insurance, TPA & Billing Services
+================================================================================
+
+IMPORTANT NOTICE: Billing rates, insurance tie-up status, and TPA contact
+details are subject to change. Patients are advised to confirm coverage details
+directly with their insurer before or at admission. Apollo Hospitals Chennai
+reserves the right to modify billing policies in line with regulatory guidelines
+and contractual agreements.
+
+--------------------------------------------------------------------------------
+1. PURPOSE AND SCOPE
+--------------------------------------------------------------------------------
+
+This document serves as the primary reference for:
+
+  (a) Patients and their families — understanding how insurance claims, cashless
+      hospitalization, and billing work at Apollo Hospitals Chennai.
+  (b) Administrative and billing staff — standard operating procedures for
+      pre-authorization, bill generation, and claim submission.
+  (c) Clinical staff — understanding their role in the insurance documentation
+      and authorization workflow.
+
+This document covers:
+  - Insurance pre-authorization process (planned and emergency)
+  - Cashless claim processing
+  - Reimbursement claim support
+  - Billing procedures and itemized billing
+  - Payment options
+  - Frequently asked questions (FAQ)
+  - Escalation and grievance process
+
+--------------------------------------------------------------------------------
+2. INSURANCE DESK — CONTACT AND LOCATION
+--------------------------------------------------------------------------------
+
+  Location    : Ground Floor, Medical Insurance & TPA Desk
+                Adjacent to Main Admissions Counter, Block A
+  Timings     : Monday – Saturday: 8:00 AM – 8:00 PM
+                Sunday & Public Holidays: 9:00 AM – 5:00 PM
+                Emergency Insurance Helpline (24/7): 044-2829-4444
+
+  Staff Contacts:
+    TPA Desk Manager    : Ms. Priya Venkataraman    | Ext. 3101
+    Senior TPA Executive: Mr. Rajan Suresh          | Ext. 3102
+    Billing Manager     : Ms. Kavitha Sundaram       | Ext. 3201
+    Patient Accounts    : Mr. Suresh Kumar           | Ext. 3205
+    Insurance Helpdesk  : insurance.chennai@apollohospitals.com
+
+--------------------------------------------------------------------------------
+3. EMPANELLED INSURERS AND THIRD-PARTY ADMINISTRATORS (TPAs)
+--------------------------------------------------------------------------------
+
+Apollo Hospitals Chennai is empanelled with the following insurance companies
+and TPAs (representative list; subject to change — confirm at admission):
+
+  GOVERNMENT / PSU INSURANCE COMPANIES
+  -------------------------------------
+  - New India Assurance Company Ltd.
+  - United India Insurance Company Ltd.
+  - The Oriental Insurance Company Ltd.
+  - National Insurance Company Ltd.
+
+  PRIVATE INSURANCE COMPANIES
+  ----------------------------
+  - Star Health and Allied Insurance Co. Ltd.
+  - ICICI Lombard General Insurance Co. Ltd.
+  - HDFC ERGO General Insurance Co. Ltd.
+  - Bajaj Allianz General Insurance Co. Ltd.
+  - Niva Bupa Health Insurance Co. Ltd. (formerly Max Bupa)
+  - Care Health Insurance Ltd. (formerly Religare Health)
+  - Aditya Birla Health Insurance Co. Ltd.
+  - Manipal Cigna Health Insurance Co. Ltd.
+  - Tata AIG General Insurance Co. Ltd.
+  - SBI General Insurance Co. Ltd.
+  - ManipalCigna Health Insurance Co. Ltd.
+
+  GOVERNMENT HEALTH SCHEMES
+  --------------------------
+  - Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS) — Tamil Nadu
+  - Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)
+  - Central Government Health Scheme (CGHS) — Delhi-empanelled procedures only
+  - Employees' State Insurance Corporation (ESIC)
+  - Ex-Servicemen Contributory Health Scheme (ECHS)
+
+  CORPORATE TPA NETWORKS
+  -----------------------
+  - Medi Assist Healthcare TPA Pvt. Ltd.
+  - Health India TPA Services Pvt. Ltd.
+  - Vipul MedCorp TPA Pvt. Ltd.
+  - MD India Health Insurance TPA Pvt. Ltd.
+  - Paramount Health Services TPA Pvt. Ltd.
+  - Family Health Plan (TPA) Ltd. (FHPL)
+  - Raksha Health Insurance TPA Pvt. Ltd.
+  - East West Assist TPA Pvt. Ltd.
+
+  NOTE: Coverage type (cashless vs. reimbursement only), applicable room
+  category, and sub-limits vary by policy. Patients MUST verify their
+  specific policy terms with their insurer or TPA.
+
+--------------------------------------------------------------------------------
+4. INSURANCE PRE-AUTHORIZATION PROCESS
+--------------------------------------------------------------------------------
+
+4.1 WHAT IS PRE-AUTHORIZATION?
+
+Pre-authorization (also called prior approval or PA) is the process by which
+Apollo Hospitals seeks formal approval from your insurer or TPA before providing
+treatment, confirming that:
+  - Your policy is active and valid for the date of treatment
+  - The proposed treatment/procedure is covered under your policy
+  - An estimated amount is approved for cashless settlement
+
+Pre-authorization does NOT guarantee full coverage — final claim settlement
+depends on actual treatment provided, policy sub-limits, and insurer review.
+
+4.2 PRE-AUTHORIZATION FOR PLANNED ADMISSIONS
+
+  Step 1 — Pre-admission Preparation (Patient's Responsibility)
+    Before arriving for admission, ensure you have:
+      - Original insurance card / e-card / policy certificate
+      - Photo ID proof (Aadhaar, passport, or driving licence)
+      - Policy number and insurer/TPA contact details
+      - Pre-operative investigation reports (if already done at another centre)
+      - Referral letter from treating consultant (if required by your insurer)
+      - CKYC number or KYC documents (for certain insurers)
+
+  Step 2 — TPA Desk Submission (Day of Admission)
+    - Submit all documents at the Medical Insurance & TPA Desk.
+    - TPA Desk will verify your policy status via the insurer's online portal
+      or helpline.
+    - A Pre-Authorization Request Form will be raised, including:
+        * Patient demographics and policy details
+        * Admitting diagnosis (ICD-10 code)
+        * Proposed procedure (CPT/ICD-10-PCS code)
+        * Estimated length of stay and cost breakup
+        * Treating consultant's name and MCI registration number
+    - You will receive an acknowledgement reference number for tracking.
+
+  Step 3 — Authorization Receipt
+    - Authorization is typically received within:
+        * 4-6 hours for planned elective procedures
+        * 2-4 hours for urgent admissions
+        * 30-60 minutes for emergency life-threatening cases
+          (provisional authorization with 24-hour retrospective submission)
+    - TPA Desk notifies the patient/attendant and the ward upon receipt.
+    - Authorization letter is uploaded to HealthConnect and filed in the
+      patient's billing record.
+    - If authorization is delayed beyond these timelines, the TPA Desk will
+      follow up with the insurer every hour and keep the patient informed.
+
+  Step 4 — Authorization Limits and Enhancements
+    - Initial authorization covers the estimated treatment cost for the first
+      approved period (typically 5-7 days or until surgery).
+    - If admission extends beyond the authorized period or cost, TPA Desk
+      raises an enhancement request with updated clinical summary.
+    - Enhancement requests are submitted at least 24 hours before expiry.
+    - Patients are notified of any coverage gaps or non-covered items.
+
+4.3 PRE-AUTHORIZATION FOR EMERGENCY ADMISSIONS
+
+  - In a genuine medical emergency, treatment will begin immediately
+    regardless of insurance status — delay for authorization is not permitted.
+  - The patient or attendant must inform the Emergency Reception about
+    insurance coverage within 2 hours of admission.
+  - TPA Desk will raise a retrospective/emergency authorization within 24
+    hours of admission.
+  - If the insurer mandates pre-authorization and it is not obtained, the claim
+    may be processed as reimbursement rather than cashless — the patient will
+    be advised accordingly.
+
+4.4 DOCUMENTS REQUIRED FOR PRE-AUTHORIZATION
+
+  Mandatory:
+    [ ] Insurance card (original or digital copy)
+    [ ] Valid photo ID of the patient (Aadhaar preferred)
+    [ ] Policy document or certificate of insurance
+    [ ] Referral letter from treating physician (if applicable)
+
+  Clinical Documents (provided by Apollo):
+    [ ] Admitting consultant's clinical summary
+    [ ] Provisional diagnosis and treatment plan
+    [ ] Relevant investigation reports (blood work, imaging, ECG)
+    [ ] OT notes / procedure plan (for surgical cases)
+    [ ] Implant details (brand, model, cost) for orthopedic/cardiac cases
+
+  Additional for Government Schemes (CMCHIS / PMJAY):
+    [ ] Scheme beneficiary card or Aadhaar-linked e-card
+    [ ] Family composition certificate (if applicable)
+    [ ] BPL certificate or income certificate (scheme-dependent)
+
+--------------------------------------------------------------------------------
+5. CASHLESS HOSPITALIZATION — PROCESS OVERVIEW
+--------------------------------------------------------------------------------
+
+5.1 HOW CASHLESS WORKS
+
+In a cashless arrangement, Apollo Hospitals directly bills the insurer/TPA for
+covered expenses. The patient does not pay the insured amount at discharge —
+only non-covered or excess amounts are collected from the patient.
+
+5.2 PATIENT RESPONSIBILITIES UNDER CASHLESS
+
+  At Admission:
+    - Submit complete documents at TPA Desk (see Section 4.4)
+    - Sign the Hospital Admission and Authorization Form
+    - Pay a refundable security deposit as applicable (see Section 7.2)
+    - Pay any co-payment required by your policy upfront
+
+  During Stay:
+    - Inform TPA Desk promptly of any change in diagnosis or treatment plan
+    - Do not use room amenities or services beyond your entitled category
+      without checking coverage implications
+
+  At Discharge:
+    - Review the final bill carefully before signing
+    - Pay non-covered items, deductibles, and co-payment (if any)
+    - Collect your discharge summary, all reports, and pharmacy receipts
+
+5.3 COMMON NON-COVERED ITEMS (PATIENT PAYS)
+
+  Regardless of insurance type, the following are typically NOT covered and
+  must be paid by the patient:
+
+    - Registration / admission charges
+    - Attendant charges and extra bed charges
+    - Food and beverages beyond standard hospital meals
+    - Telephone and TV charges
+    - Personal hygiene items (toiletries, diapers)
+    - Non-formulary / cosmetic medications
+    - Spectacles, contact lenses, hearing aids (unless policy-specific rider)
+    - Charges for complications arising from non-covered conditions
+    - OPD consultations and day-care procedures (unless covered)
+    - Charges exceeding room rent sub-limit (proportionate deduction may apply)
+
+  IMPORTANT: Room Rent Sub-Limits
+    Many policies have room rent caps (e.g., Rs. 3,000/day for a standard
+    private room). If you choose a room above your entitled category, ALL
+    associated charges (consultant fees, nursing, OT, ICU) may be
+    proportionately reduced by the insurer. Consult the TPA Desk before
+    selecting your room.
+
+--------------------------------------------------------------------------------
+6. REIMBURSEMENT CLAIMS — SUPPORT AND DOCUMENTATION
+--------------------------------------------------------------------------------
+
+6.1 WHEN REIMBURSEMENT APPLIES
+
+  - Your insurer is not empanelled with Apollo Hospitals Chennai
+  - Pre-authorization was denied or not obtained (emergency)
+  - Policy terms require post-treatment reimbursement
+  - You choose to pay and claim independently
+
+6.2 CLAIM SUPPORT PACKAGE PROVIDED BY APOLLO
+
+  Apollo Hospitals Chennai provides the following documents for reimbursement
+  claims (obtainable from Patient Accounts Desk, Ground Floor, up to 30 days
+  post-discharge):
+
+    [ ] Original Discharge Summary (signed, stamped, and with hospital letterhead)
+    [ ] Itemized final bill (original with hospital stamp and authorized signature)
+    [ ] All investigation reports (laboratory and radiology — originals or
+        certified true copies)
+    [ ] Operation Theatre notes and anaesthesia record (for surgical cases)
+    [ ] Pharmacy bills (itemized, with Rx reference)
+    [ ] X-ray / MRI / CT films or CDs (with patient name and date)
+    [ ] Pre-authorization reference number (if obtained)
+    [ ] Hospital registration certificate copy (for first-time claims)
+    [ ] Implant stickers / device invoices (for joint replacements, stents, etc.)
+    [ ] Treating consultant's clinical certificate (on request, within 7 working days)
+
+  Note: Duplicate copies are chargeable at Rs. 200 per document. Requests for
+  records post-30 days require 7 working days' processing time.
+
+6.3 CLAIM SUBMISSION TIPS
+
+  - Submit your claim to the insurer within 30 days of discharge (check your
+    policy for exact deadline — some policies allow 60 or 90 days).
+  - Keep photocopies of all documents submitted to the insurer.
+  - Obtain an acknowledgement with claim reference number from the insurer.
+  - Follow up with insurer after 15 working days if no update is received.
+  - Apollo's TPA Desk can write a supportive clinical letter to the insurer
+    if your claim is queried — contact insurance.chennai@apollohospitals.com.
+
+--------------------------------------------------------------------------------
+7. BILLING PROCEDURES
+--------------------------------------------------------------------------------
+
+7.1 BILL GENERATION PROCESS
+
+  Apollo Hospitals Chennai uses a fully integrated billing system via the
+  HealthConnect EMR and Hospital Management System (HMS). All charges are
+  captured in real time.
+
+  Stages of Billing:
+    Stage 1 — Interim Bill:
+      - Available on request at any point during hospitalization.
+      - Useful for insurance enhancement requests and financial planning.
+      - Request at the ward Billing Help Point or Patient Accounts (ext. 3205).
+
+    Stage 2 — Pre-Discharge Bill:
+      - Prepared 4-6 hours before anticipated discharge.
+      - Sent to TPA Desk for insurance settlement (cashless) or to the patient
+        for review (self-pay/reimbursement).
+
+    Stage 3 — Final Bill:
+      - Generated after treating consultant confirms discharge in HealthConnect.
+      - Includes all charges: consultation, nursing, procedures, OT, ICU, pharmacy,
+        investigations, consumables, accommodation, and miscellaneous.
+      - Any adjustments require written approval from Billing Manager (ext. 3201).
+
+7.2 SECURITY DEPOSITS
+
+  A refundable security deposit is collected at admission based on the estimated
+  length of stay and nature of treatment:
+
+    Category                          | Deposit Amount
+    ----------------------------------|---------------------------
+    General Ward Admission            | Rs. 10,000 – Rs. 25,000
+    Private / Deluxe Room Admission   | Rs. 25,000 – Rs. 75,000
+    ICU Admission                     | Rs. 75,000 – Rs. 1,50,000
+    Cardiac / Neurosurgery            | Rs. 1,00,000 – Rs. 2,50,000
+    Major Oncology Procedures         | Rs. 50,000 – Rs. 1,50,000
+
+    - Deposit is adjusted against the final bill.
+    - Excess deposit refunded at discharge (cash refund > Rs. 5,000 requires
+      2 working days via NEFT; immediate refund for card/UPI payments).
+    - For cashless patients: deposit may be reduced or waived upon presentation
+      of confirmed pre-authorization letter.
+
+7.3 ITEMIZED BILLING — YOUR RIGHT
+
+  Every patient has the right to receive an itemized bill. Apollo Hospitals
+  provides itemized bills as the default. The bill will include:
+
+    - Room and accommodation charges (per day)
+    - Consultant visit charges (each visit itemized)
+    - Nursing care charges
+    - Procedure / OT / ICU charges
+    - Anaesthesia charges
+    - Pharmacy (each medicine listed with quantity and unit cost)
+    - Laboratory investigations (each test listed)
+    - Radiology investigations (each study listed)
+    - Physiotherapy / dietetics (if applicable)
+    - Implants and medical devices (with make, model, and MRP)
+    - Miscellaneous (oxygen, blood transfusion, specialist charges)
+
+  If you believe any item is incorrect:
+    - Raise the query at the Billing Desk before signing the bill.
+    - Billing Desk will verify with the clinical team within 2 hours.
+    - A formal billing dispute must be submitted in writing to the Billing
+      Manager (ext. 3201) if not resolved at the counter.
+    - Apollo guarantees resolution of billing disputes within 24 hours.
+
+7.4 PACKAGE RATES
+
+  Apollo Hospitals Chennai offers all-inclusive package rates for many common
+  procedures. Package rates cover:
+    - Surgery charges
+    - OT and anaesthesia
+    - Standard implant cost (if applicable)
+    - Post-operative ward stay (up to stated duration)
+    - Routine post-operative medications
+
+  Packages do NOT cover:
+    - Pre-operative investigations (unless specified)
+    - ICU stay beyond the included duration
+    - Blood and blood products
+    - Complications requiring extended stay or re-surgery
+    - Specialist consultations beyond the primary surgeon
+
+  Package rates are available at the Patient Accounts Desk and on the Apollo
+  Hospitals Chennai website under "Packages & Pricing."
+
+--------------------------------------------------------------------------------
+8. PAYMENT OPTIONS
+--------------------------------------------------------------------------------
+
+  Apollo Hospitals Chennai accepts the following payment modes:
+
+  Mode              | Details
+  ------------------|----------------------------------------------------------
+  Cash              | Accepted at the Billing Counter; receipts issued for all
+                    | transactions
+  Credit / Debit Card | Visa, Mastercard, RuPay, AMEX accepted; no surcharge
+  UPI               | PhonePe, Google Pay, Paytm, BHIM UPI; scan at billing counter
+  Net Banking       | NEFT/RTGS to Apollo Hospitals account (details at billing);
+                    | allow 24 hrs for confirmation
+  Demand Draft      | Payable to "Apollo Hospitals Enterprises Ltd., Chennai"
+  EMI               | 0% EMI available on select credit cards (HDFC, ICICI,
+                    | Kotak, SBI) for bills > Rs. 20,000; 3/6/9/12-month tenures
+  Apollo Health Credit| For eligible registered Apollo patients (subject to
+                    | credit assessment); apply at Patient Accounts
+  Insurance Direct  | Cashless settlement via empanelled insurer/TPA
+
+  NOTE: Cheques are NOT accepted. International credit cards are accepted
+  for payments above Rs. 5,000 (foreign currency billing not available).
+
+--------------------------------------------------------------------------------
+9. FREQUENTLY ASKED QUESTIONS (FAQ)
+--------------------------------------------------------------------------------
+
+Q1. Will Apollo inform my insurer if my treatment plan changes during
+    hospitalization?
+
+  Yes. The TPA Desk actively monitors ongoing admissions. If the treating
+  consultant changes the diagnosis, adds a procedure, or the patient is
+  transferred to ICU, TPA Desk submits an enhancement request to the insurer.
+  However, it is also the patient's responsibility to keep the TPA Desk informed
+  of significant changes. TPA Desk can be reached at ext. 3101 or by the
+  ward nurse directly.
+
+Q2. My insurer has given authorization for Rs. 1,50,000 but my final bill is
+    Rs. 2,10,000. What happens?
+
+  You will be responsible for the Rs. 60,000 difference. TPA Desk will submit
+  the final bill to the insurer and collect the balance from you at discharge.
+  If the excess is due to a change in treatment, TPA Desk will attempt to obtain
+  an enhanced authorization, but this is not guaranteed. In some cases, post-
+  discharge enhancement requests may be submitted and the balance refunded if
+  approved.
+
+Q3. My policy has a co-payment clause. When do I pay my share?
+
+  Co-payment amounts are collected at discharge along with any non-covered items.
+  The TPA Desk will calculate your co-payment based on the final authorized
+  amount. Co-payment percentages vary (typically 10%–20%); refer to your policy
+  document.
+
+Q4. Can I be shifted to a higher room category without affecting my coverage?
+
+  Not without consequences. If your policy has a room rent sub-limit, choosing
+  a room above the limit causes proportionate deductions across all associated
+  charges. Always check with the TPA Desk BEFORE upgrading your room.
+
+Q5. My insurer is not empanelled with Apollo. Can I still get admitted?
+
+  Yes. You will be admitted on a self-pay basis. Apollo will provide all
+  documents needed for reimbursement from your insurer after discharge.
+  Refer to Section 6 for the full list of documents provided.
+
+Q6. How do I get my Discharge Summary and reports if I need them later?
+
+  Discharge summaries and investigation reports can be collected from:
+    - Patient Accounts Desk (Ground Floor) within 30 days of discharge at
+      no charge (1 original copy).
+    - Apollo's patient portal (MyApollo app or apollohospitals.com) — available
+      digitally within 48 hours of finalization.
+  Beyond 30 days, a processing fee of Rs. 200 per document applies and
+  documents will be ready within 7 working days.
+
+Q7. I was denied cashless authorization. Can I appeal?
+
+  Yes. The TPA Desk will provide you with the denial letter from the insurer
+  citing the reason. You may:
+    (a) Request the treating consultant to provide additional clinical justification.
+        The TPA Desk will re-submit to the insurer with supporting documentation.
+    (b) Contact your insurer's grievance cell directly (contact on denial letter).
+    (c) Escalate to the Insurance Regulatory Authority of India (IRDAI)
+        grievance portal: igms.irda.gov.in if the insurer does not resolve
+        within 15 working days.
+  Apollo's TPA Desk will provide all supporting documentation for your appeal.
+
+Q8. Can Apollo hold me at the hospital if my insurance doesn't cover the full amount?
+
+  No. Apollo Hospitals Chennai does not withhold patients pending insurance
+  clearance. You may be discharged and asked to settle the uncovered amount.
+  If you face financial hardship, the Medical Social Worker (ext. 4412) can
+  assist with exploring options including Apollo's patient assistance programs.
+
+Q9. I was admitted under AB-PMJAY (Ayushman Bharat). What is covered?
+
+  Under AB-PMJAY, eligible patients receive cashless treatment for covered
+  procedures up to Rs. 5 lakhs per family per year. Covered procedures are
+  defined by the AB-PMJAY Health Benefit Package (HBP) and are listed at the
+  PMJAY Desk (adjacent to TPA Desk). Treatment beyond the HBP package requires
+  self-payment. Beneficiary verification is done via the PMJAY portal using
+  Aadhaar-based authentication.
+
+Q10. What is CMCHIS and how does it work at Apollo?
+
+  The Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS) is the
+  Tamil Nadu government scheme providing cashless treatment up to Rs. 5 lakhs
+  (or Rs. 10 lakhs for selected conditions) for eligible Tamil Nadu residents.
+  Apollo Hospitals Chennai is a CMCHIS-empanelled hospital.
+
+  To use CMCHIS at Apollo:
+    - Present your CMCHIS smart card and Aadhaar at the Government Schemes Desk
+      (Ground Floor, adjacent to Main Emergency).
+    - Biometric authentication will be completed.
+    - Only procedures listed in the CMCHIS treatment package are covered cashless.
+    - Non-package procedures require self-payment.
+  CMCHIS Desk timings: 8:00 AM – 8:00 PM, Monday to Saturday.
+  CMCHIS Helpline: 044-2829-3333 Ext. 3110.
+
+Q11. My bill seems higher than the published package rate. Can I raise a dispute?
+
+  Yes. Package applicability depends on the clinical scenario at the time of
+  treatment. Complications, ICU care, or extended stays may move the case outside
+  the package. The Billing Manager (ext. 3201) will provide a written explanation
+  and reconciliation within 24 hours of a formal dispute being raised.
+
+Q12. Is GST applicable on my hospital bill?
+
+  Healthcare services provided in hospitals are exempt from GST as per the
+  Central Tax (Rate) Notification No. 12/2017. However, some ancillary services
+  (e.g., food, cafeteria, cosmetic procedures) may attract GST. Your itemized
+  bill will reflect any applicable GST separately for transparency.
+
+--------------------------------------------------------------------------------
+10. ESCALATION AND GRIEVANCE PROCESS
+--------------------------------------------------------------------------------
+
+  Level 1 — Billing Counter:
+    First point of contact for any billing or insurance query during
+    hospitalization. Target resolution: 2 hours.
+
+  Level 2 — Billing Manager / TPA Desk Manager:
+    Escalate unresolved issues at Level 1.
+    Billing Manager: Ms. Kavitha Sundaram, ext. 3201
+    TPA Desk Manager: Ms. Priya Venkataraman, ext. 3101
+    Target resolution: 24 hours.
+
+  Level 3 — Patient Relations Officer:
+    For unresolved billing and insurance grievances after Level 2.
+    Patient Relations: ext. 4050 | patientrelations.chennai@apollohospitals.com
+    Grievance redressal: within 48 hours of formal complaint.
+
+  Level 4 — Chief Financial Officer / Hospital Director:
+    For major unresolved disputes or systemic issues.
+    Written complaints via email: cfo.chennai@apollohospitals.com
+
+  External Escalation:
+    - Insurance Regulatory Authority of India (IRDAI):
+      Helpline 155255 | igms.irda.gov.in
+    - National Consumer Disputes Redressal Commission (NCDRC)
+    - Tamil Nadu Medical Council (for medico-legal disputes)
+
+--------------------------------------------------------------------------------
+11. ANTI-FRAUD ADVISORY
+--------------------------------------------------------------------------------
+
+Apollo Hospitals Chennai strongly advises patients against:
+
+  - Submitting false or inflated claims to insurers.
+  - Claiming treatment for non-admitted or non-treated family members.
+  - Requesting backdated or altered documents.
+
+Such acts constitute insurance fraud and are punishable under the Indian Penal
+Code (Sections 415, 417, 420) and the Insurance Act, 1938. Apollo is legally
+obligated to report suspected fraud to the insurer and law enforcement authorities.
+
+All staff are required to refuse any request to falsify records and report such
+requests immediately to the Compliance Officer (ext. 4500).
+
+--------------------------------------------------------------------------------
+APPENDIX A: COMMON ICD-10 CODES — QUICK REFERENCE FOR BILLING STAFF
+--------------------------------------------------------------------------------
+
+  Condition                          | ICD-10 Code
+  -----------------------------------|-------------
+  Acute myocardial infarction (STEMI)| I21.0 – I21.3
+  Type 2 Diabetes Mellitus           | E11
+  Community-acquired pneumonia       | J18.9
+  Hip fracture                       | S72.0
+  Appendicitis (acute)               | K35.8
+  Stroke (cerebral infarction)       | I63
+  Dengue fever                       | A91
+  COVID-19                           | U07.1
+  Normal delivery                    | O80
+  Caesarean section                  | O82
+
+  (Full ICD-10 code set available on HealthConnect — Billing Module > ICD-10 Browser)
+
+--------------------------------------------------------------------------------
+APPENDIX B: TPA AUTHORIZATION STATUS — TRACKING
+--------------------------------------------------------------------------------
+
+  Patients and staff can check the status of a pre-authorization request via:
+    1. TPA Desk (ext. 3101) — staff provide real-time status
+    2. Insurer's online portal (patient logs in with policy number)
+    3. Apollo HealthConnect Patient Portal — login via MyApollo App
+
+  Common authorization statuses:
+    PENDING     — Request submitted; awaiting insurer review
+    APPROVED    — Authorization granted; amount and validity shown
+    PARTIAL     — Approved for less than requested amount
+    DEFERRED    — Insurer requires additional clinical documents
+    DENIED      — Not approved; denial reason provided
+    ENHANCED    — Enhancement request approved; revised limit shown
+    EXPIRED     — Authorization validity period has lapsed; re-submission needed
+
+--------------------------------------------------------------------------------
+DOCUMENT CONTROL
+--------------------------------------------------------------------------------
+
+  Version   Date              Author                        Changes
+  -------   ---------------   ---------------------------   ----------------------
+  1.0       01 Jan 2019       Billing Dept.                 Initial document
+  2.0       01 Apr 2021       Mr. V. Krishnamurthy, CFO     GST section; UPI added;
+                                                            FAQ expanded
+  3.0       01 Jan 2023       TPA Desk / Finance Team       CMCHIS / PMJAY section;
+                                                            room sub-limit warning;
+                                                            anti-fraud advisory
+  4.0       01 Apr 2024       Finance & Legal               Revised escalation matrix;
+                                                            EMI and Apollo credit added
+  4.1       01 Apr 2025       Mr. V. Krishnamurthy, CFO     Annual review; TPA list
+                                                            updated; deposit table revised
+
+--------------------------------------------------------------------------------
+For billing and insurance queries, contact:
+Medical Insurance & TPA Desk | Billing Services
+Apollo Hospitals Chennai, 21 Greams Lane, Off Greams Road, Chennai – 600 006
+Phone: 044-2829-4444 (24/7 Insurance Helpline) | 044-2829-3333 Ext. 3101/3201
+Email: insurance.chennai@apollohospitals.com
+--------------------------------------------------------------------------------
+                     END OF DOCUMENT - AH-CHN-BIL-007 v4.1
+================================================================================
