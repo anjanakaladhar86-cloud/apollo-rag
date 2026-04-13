@@ -6,6 +6,10 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 import streamlit as st
 from rag_pipeline import ask_claude, retrieve_chunks
 
+# suppressing warning from torch vision
+import warnings
+warnings.filterwarnings("ignore")
+
 # ---------------------------------------------------------------------------
 # Page config
 # ---------------------------------------------------------------------------
