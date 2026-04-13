@@ -20,6 +20,16 @@ st.set_page_config(
 )
 
 # ---------------------------------------------------------------------------
+# Auto-setup: build ChromaDB index on first run if it doesn't exist
+# ---------------------------------------------------------------------------
+_DB_PATH = Path(__file__).parent / "data" / "chromadb"
+
+if not _DB_PATH.exists():
+    import setup
+    with st.spinner("First-time setup: indexing policy documents into ChromaDB…"):
+        setup.run()
+
+# ---------------------------------------------------------------------------
 # Styling — clean, clinical white/blue palette
 # ---------------------------------------------------------------------------
 st.markdown(
